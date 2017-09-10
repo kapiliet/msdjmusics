@@ -1,0 +1,179 @@
+
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+Searching for "debian.vim" in "/home/prtouch/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/debian.vim"
+Searching for "/usr/share/vim/vimfiles/debian.vim"
+Searching for "/usr/share/vim/vim74/debian.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim74/debian.vim"
+finished sourcing /usr/share/vim/vim74/debian.vim
+continuing in /usr/share/vim/vimrc
+Searching for "/usr/share/vim/vimfiles/after/debian.vim"
+Searching for "/home/prtouch/.vim/after/debian.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 20: sourcing "/usr/share/vim/vim74/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/syntax/synload.vim"
+Searching for "/var/lib/vim/addons/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim74/syntax/synload.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim74/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+continuing in /usr/share/vim/vim74/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/prtouch/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/synload.vim
+continuing in /usr/share/vim/vim74/syntax/syntax.vim
+Searching for "filetype.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim74/filetype.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim74/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim74/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/home/prtouch/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim74/filetype.vim
+continuing in /usr/share/vim/vim74/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/prtouch/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syntax.vim
+continuing in /usr/share/vim/vimrc
+finished sourcing $VIM/vimrc
+chdir(/home/prtouch)
+fchdir() to previous dir
+could not source "$HOME/.vimrc"
+chdir(/home/prtouch/.vim)
+fchdir() to previous dir
+could not source "~/.vim/vimrc"
+chdir(/home/prtouch)
+fchdir() to previous dir
+could not source "$HOME/.exrc"
+Searching for "plugin/**/*.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim74/plugin/**/*.vim"
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim74/plugin/gzip.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/logiPat.vim"
+finished sourcing /usr/share/vim/vim74/plugin/logiPat.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim74/plugin/matchparen.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim74/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim74/plugin/spellfile.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim74/plugin/tohtml.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/after/plugin/**/*.vim"
+Searching for "/home/prtouch/.vim/after/plugin/**/*.vim"
+Searching for "pack/*/start/*" in "/home/prtouch/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/pack/*/start/*"
+Searching for "/usr/share/vim/vimfiles/pack/*/start/*"
+Searching for "/usr/share/vim/vim74/pack/*/start/*"
+Searching for "/usr/share/vim/vimfiles/after/pack/*/start/*"
+Searching for "/home/prtouch/.vim/after/pack/*/start/*"
+not found in 'packpath': "pack/*/start/*"
+Reading viminfo file "/home/prtouch/.viminfo" info oldfiles
+"python" [New File]
+Reading viminfo file "/home/prtouch/.viminfo" marks
+Executing BufNewFile Auto commands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Searching for "scripts.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/scripts.vim"
+Searching for "/var/lib/vim/addons/scripts.vim"
+Searching for "/usr/share/vim/vimfiles/scripts.vim"
+Searching for "/usr/share/vim/vim74/scripts.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 0: sourcing "/usr/share/vim/vim74/scripts.vim"
+finished sourcing /usr/share/vim/vim74/scripts.vim
+continuing in BufNewFile Auto commands for "*"
+Searching for "/usr/share/vim/vimfiles/after/scripts.vim"
+Searching for "/var/lib/vim/addons/after/scripts.vim"
+Searching for "/home/prtouch/.vim/after/scripts.vim"
+Executing BufNewFile Auto commands for "*"
+autocommand if !did_filetype() && expand("<amatch>") !~ g:ft_ignore_pat    && (getline(1) =~ '^#' || getline(2) =~ '^#' || getline(3) =~ '^#'^I|| getline(4) =~ '^#' || getline(5) =~ '^#') |   setf conf | endif
+
+Executing BufEnter Auto commands for "*"
+autocommand sil call s:LocalBrowse(expand("<amatch>"))
+
+Searching for "syntax/syncolor.vim" in "/home/prtouch/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/prtouch/.vim/after"
+Searching for "/home/prtouch/.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/prtouch/.vim/after/syntax/syncolor.vim"
+Executing VimEnter Auto commands for "*"
+autocommand sil call s:VimEnter(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+Writing viminfo file "/home/prtouch/.viminfo"
